@@ -10,7 +10,9 @@ I'm Joaquín, a curious and keen person that loves technlogoy, science and every
 
 ## **My Developer Skills**
 #### Front End
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="50" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50" /> & <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" /> 
+##### **HTML** **CSS** **Bootstrap**
 ##### **Javascript** 
 - ##### **Typescript** **React** **Redux** **Material-UI**
 
