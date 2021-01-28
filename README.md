@@ -10,14 +10,21 @@ I'm Joaquín, a curious and keen person that loves technlogoy, science and every
 
 ## **My Developer Skills**
 #### Front End
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="35" />&<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/lodash.svg" width="30" /> & <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" /> 
-##### **Javascript**
-- ##### **React** **Redux** **Lodash** **Material-UI**
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" /> 
+##### **Javascript** 
+- ##### **Typescript** **React** **Redux** **Material-UI**
 
 
 #### Back End
-<img src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg" width="60" /> & <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" width="60" />
-- ##### **NodeJS**  **ExpressJS**  **MongoDB** **SQL**
+<img src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg" width="70" /> & <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" /> & <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" width="50" />
+##### **Javascript**
+- ##### **NodeJS**  **ExpressJS** **Mongoose**
+##### **C#**
+##### **Python**
+##### **DB**
+- ##### **MongoDB** **SQL**
 
-#### Essentials
-<img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="60" /> & <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" />
+#### Misc
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="60" /> & <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="35" />
+
+- ##### **Git** **Github** **Microsoft Dynamics** **VS Code** 
