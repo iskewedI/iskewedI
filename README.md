@@ -10,15 +10,15 @@ I'm Joaquín, a curious and keen person that loves technlogoy, science and every
 
 ## **My Developer Skills**
 #### Front End
-<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="50" /> 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50" /> & <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35" /> & <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="45" /> 
 ##### **HTML** **CSS** **Bootstrap**
 ##### **Javascript** 
 - ##### **Typescript** **React** **Redux** **Material-UI**
 
 
 #### Back End
-<img src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg" width="70" /> & <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" /> & <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" width="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" /> & <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg" width="70" /> & <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" width="50" />
 ##### **Javascript**
 - ##### **NodeJS**  **ExpressJS** **Mongoose**
 ##### **C#**
