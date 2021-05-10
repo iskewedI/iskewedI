@@ -18,7 +18,7 @@ I'm Joaquín, a curious and keen person that loves technlogoy, science and every
 
 
 #### Back End
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" /> & <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="70" /> & <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" width="60" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="45" /> & <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="50" /> & <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="70" /> & <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" /> & <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" /> & <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" width="70" />
 ##### **Javascript**
 - ##### **NodeJS**  **ExpressJS** **Mongoose**
 ##### **C#**
