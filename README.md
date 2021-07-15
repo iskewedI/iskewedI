@@ -1,6 +1,6 @@
 # ¡Hello, world! :wave:
 
-I'm Joaquín, a curious and keen person that loves technlogoy, science and every small improvement in our tiny dot called world! :earth_americas:
+I'm Joaquín, a curious and keen person that loves technology, science and every small improvement in our *tiny blue dot* called World! :earth_americas:
 
 - :computer: FullStack Developer, current working in Axxon Consulting :argentina:
 - :chart: Very interested in businenss and finance world and investments :moneybag:
