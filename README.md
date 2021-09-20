@@ -26,7 +26,7 @@ I'm Joaquín, a curious and keen person that loves technology, science and every
 ##### **DB**
 - ##### **MongoDB** **SQL**
 
-#### Misc
+#### Devops
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="60" /> & <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="35" />
 
 - ##### **Git** **Github** **Microsoft Dynamics** **VS Code** 
