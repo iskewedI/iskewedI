@@ -10,7 +10,7 @@ I'm Joaquín, a curious and keen person that loves technology, science and every
 
 ## **My Developer Skills**
 #### Front End
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="40" /> & <img src="https://image.flaticon.com/icons/png/512/732/732190.png" width="50"> & <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="60" /> & 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"> & <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="60" /> & 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" /> & <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="45" /> & <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="45" /> 
 ##### **HTML** **CSS** **Bootstrap**
 ##### **Javascript** 
