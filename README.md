@@ -7,7 +7,7 @@ I'm Joaquín, a curious and keen person that loves technology, science and every
 - :test_tube: Science and *racional* thinking soul, especially an astronomy lover :satellite:. I owe a lot of my knowledge to _Carl Sagan_	:telescope:
 - :computer_mouse::desktop_computer: Involved in technology since childhood. :video_game::joystick: and :clapper::movie_camera: fan (talk me about **Interstellar**...)
 - :bulb: Looking for changing-world projects. Particularly when VR & AR are involved
-- Currently studying Deep Learning and Machine Learning subjects.
+- :brain: Currently studying Deep Learning and Machine Learning subjects.
 
 ## **My Developer Skills**
 #### Front End
