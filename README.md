@@ -3,9 +3,9 @@
 I'm Joaquín, a curious and keen person that loves technology, science and every small improvement in our *tiny blue dot* called World! :earth_americas:
 
 - :computer: FullStack Developer, currently working in Globant :argentina:
-- :chart: Very interested in business and finance world :moneybag:
-- :test_tube: Science and *racional* thinking soul, specially astronomy lover :satellite:. I owe a lot of knowledge to _Carl Sagan_	:telescope:
-- :computer_mouse::desktop_computer: Involved in technology since a child. :video_game::joystick: and :clapper::movie_camera: fan (talk me about **Interstellar**...)
+- :chart: Very interested in the business and finance world :moneybag:
+- :test_tube: Science and *racional* thinking soul, especially an astronomy lover :satellite:. I owe a lot of my knowledge to _Carl Sagan_	:telescope:
+- :computer_mouse::desktop_computer: Involved in technology since childhood. :video_game::joystick: and :clapper::movie_camera: fan (talk me about **Interstellar**...)
 - :bulb: Looking for changing-world projects. Particularly when VR & AR are involved
 - Currently studying Deep Learning and Machine Learning subjects.
 
