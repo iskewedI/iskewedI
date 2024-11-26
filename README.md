@@ -1,4 +1,4 @@
-# ¡Hello, world! :wave:
+# Hello, world! :wave:
 
 I'm Joaquín, a curious and keen person that loves technology, science and every small improvement in our *tiny blue dot* called World! :earth_americas:
 
